@@ -1,0 +1,41 @@
+body
+{
+    background-color: yellowgreen; 
+    color: black;
+    text-align: center;
+}
+
+table
+{
+    border: solid 3px black;
+}
+
+table tr td
+{
+    padding-bottom: 3px;
+    padding-right: 15px;
+}
+
+#page-wrap
+{
+  text-align: left;
+  width: 800px;
+  margin: 0 auto;
+}
+
+.edit{
+    color: blue;
+}
+
+.delete{
+    color: red;
+}
+
+.error
+{
+    color: red;
+}
+.user
+{
+    text-align: right;
+}
